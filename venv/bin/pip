@@ -1,4 +1,4 @@
-#!/Users/chompoo/Desktop/CN334/venv/bin/python3.12
+#!/workspaces/CN334-Django_Project/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
